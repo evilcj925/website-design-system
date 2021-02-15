@@ -1,0 +1,116 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 10%;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+.container {
+    border: 2px solid black;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+h1{
+    font-family: 'Raleway';
+}
+
+/*color panels*/
+.color-panel {
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+
+}
+
+.color-container {
+   width: 100%;
+    
+}
+
+.blueviolet {
+background-color: blueviolet;
+}
+
+.darkred{
+    background-color: darkred;
+}
+
+.deepskyblue {
+    background-color: deepskyblue;
+}
+
+/*font panels*/
+
+.font-container {
+    display: inline-block;
+}
+
+.bold {
+    font-weight: bold;
+    
+}
+
+.italic {
+    font-style: italic;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+.raleway {
+    font-family: 'Raleway', sans-serif;
+    
+}   
+
+.font-panel {
+    
+    display: inline-block;
+    margin: 20px auto;
+    margin-right: 20px;
+    width: 45%;
+}
+
+.font-label {
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins';
+
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-family: 'Raleway';
+    font-size: 32px;
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-family: 'Poppins';
+    font-size: 14px;
+}
+
+.text-panel p li {
+    font-weight: 400;
+    font-family: 'Poppins';
+    font-size: 14px;
+}
